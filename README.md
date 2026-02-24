@@ -2,8 +2,8 @@
 
 - バージョン情報
   - 2026/2/24 v1.0.0 公開
-    - 通常版 約 70MB 追加インストール不要
-    - 軽量版 約100KB .Net 8系の動作環境が必要
+    - lleDeckChecher_standalone(通常版) 約 70MB 追加インストール不要
+    - lleDeckChecher_light(軽量版) 約100KB .Net 8系の動作環境が必要
 
 - サンプル情報
   - 「ファイルからまとめて追加」のサンプルとして「InputSample.txt」を作成しました。
